@@ -1,0 +1,3 @@
+O createSlice irá criar o reducer e as ações utilizando uma única função.
+Ele também irá definir um namespace para as ações e configura automaticamente
+o immer, permitindo assim a mutação do estado dentro do reducer.
